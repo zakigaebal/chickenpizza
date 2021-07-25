@@ -84,7 +84,6 @@ const qnaList = [
     ]
   },
 ]
-
 const infoList = [
   {
     name: '당신은... 치킨을 좋아합니다',
